@@ -1,0 +1,12 @@
+package Command_Pattern.example;
+
+/**
+ * @author hongfei.shen
+ * @date 2019/04/02
+ */
+public class HelpHandler {
+
+    public void display() {
+        System.out.println("显示帮助文档！");
+    }
+}

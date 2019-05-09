@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<config>
+    <chartType>histogram</chartType>
+    <factoryClassName>Factory_Method_Pattern.example.FileLoggerFactory</factoryClassName>
+    <abstractClassName>Abstract_Factory_Pattern.example.SpringSkinFactory</abstractClassName>
+    <builderClassName>Builder_Pattern.example.MoBikeBuilder</builderClassName>
+    <adapterObjectClassName>Adapter_Pattern.object.example.OperationAdapter</adapterObjectClassName>
+    <imageClassName>Bridge_Pattern.example.JPGImage</imageClassName>
+    <osClassName>Bridge_Pattern.example.WindowsImp</osClassName>
+
+    <helpClassName>Command_Pattern.example.HelpCommand</helpClassName>
+    <windowHanlderClassName>Command_Pattern.example.MinimizeCommand</windowHanlderClassName>
+</config>
